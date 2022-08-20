@@ -1,3 +1,4 @@
+I am editing the README file. Adding some more details about the project description.
 <p align="center"><a href="https://enbizcard.vercel.app/"><img src="assets/images/GitHub.png" width="100%"></a></p>
 
 <h1 align="center">An Open-Source Digital Business Card Generator</h1>
